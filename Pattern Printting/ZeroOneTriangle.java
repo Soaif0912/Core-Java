@@ -16,5 +16,3 @@ public class ZeroOneTriangle {
     }
 }
 
-// Testing ASIF
-// Testing SOAIF
