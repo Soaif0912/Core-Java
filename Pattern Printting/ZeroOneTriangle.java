@@ -16,8 +16,4 @@ public class ZeroOneTriangle {
     }
 }
 
-<<<<<<< HEAD
 // Testing asif
-=======
-// Testing Soaif
->>>>>>> main
