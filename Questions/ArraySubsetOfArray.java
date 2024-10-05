@@ -4,7 +4,7 @@ package Questions;
 public class ArraySubsetOfArray {
 
     public static boolean isSubset(int[] arr1, int[] arr2, int m, int n) {
-        // Iterate over each element in the second array
+        
         for (int i = 0; i < n; i++) {
             boolean found = false;
             // Check if the element exists in the first array
